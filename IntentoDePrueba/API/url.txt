@@ -1,0 +1,21 @@
+Endpoint URL
+	https://retoolapi.dev/lJamOG/data
+
+
+HTTP method endpoints
+	GET
+		/lJamOG/data
+	GET filter
+		/lJamOG/data?candidato=value
+	GET by id
+		/lJamOG/data/1
+	GET paginate
+		/lJamOG/data?_page=2&_limit=10
+	POST
+		/lJamOG/data
+	PUT
+		/lJamOG/data/1
+	PATCH
+		/lJamOG/data/1
+	DELETE
+		/lJamOG/data/1

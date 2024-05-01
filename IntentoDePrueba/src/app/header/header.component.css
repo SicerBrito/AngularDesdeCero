@@ -202,6 +202,12 @@ img.perfil {
   text-align: center;
 }
 
+.nav__list .img {
+    margin: 0 auto;
+    display: block;
+    align-items: end;
+}
+
 .nav__link {
   color: var(--title-color);
   font-weight: var(--font-semi-bold);
