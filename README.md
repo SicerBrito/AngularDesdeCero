@@ -24,7 +24,9 @@ Instalar Bootstrap 5
  - npm install bootstrap@5
  - npm install bootstrap@next (es lo unico que se necesita next es para instalar la ultima version disponible pero en modo beta)
 https://aspnetcoremaster.com/angular/instalar-bootstrap-5-en-angular.html
- 
+
+Instalar Angular Material
+ - ng add @angular/material@17.3.3
 
 Intalacion y ejecucion de un proyecto en Angular
 ng new NombreDelProyecto
