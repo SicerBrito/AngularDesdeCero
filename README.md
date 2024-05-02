@@ -20,6 +20,10 @@ EL primer paso es instalar Linea de Comandos que se van a utilzar para realizar 
 Extension recomendada para trabajar con Angular
  - angular.ng-template (Esta extension lo que hace es darte recomendaciones en tu proyecto.Lo recomendable solo habilitar la extension en el area de trabajo que estes realizando con Angular)
 
+Instalar Bootstrap 5
+ - npm install bootstrap@5
+ - npm install bootstrap@next (es lo unico que se necesita next es para instalar la ultima version disponible pero en modo beta)
+ 
 
 Intalacion y ejecucion de un proyecto en Angular
 ng new NombreDelProyecto
