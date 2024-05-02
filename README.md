@@ -23,6 +23,7 @@ Extension recomendada para trabajar con Angular
 Instalar Bootstrap 5
  - npm install bootstrap@5
  - npm install bootstrap@next (es lo unico que se necesita next es para instalar la ultima version disponible pero en modo beta)
+https://aspnetcoremaster.com/angular/instalar-bootstrap-5-en-angular.html
  
 
 Intalacion y ejecucion de un proyecto en Angular
