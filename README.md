@@ -35,3 +35,4 @@ ng serve
 ng build para compilar y por ejemplo subirlo a la nube en un servicio estatico, solo tenemos que copiar lo del archivo que crea llamado dist y copiar el contenido
 
 <img src="lala.png" width="10px">
+<img src="prometeo.jpg" width="10px">
