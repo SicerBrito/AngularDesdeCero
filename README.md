@@ -90,22 +90,22 @@ Con este comando creamos un nuevo proyecto ```Angular``` con el nombre especific
 ng new NombreDelProyecto
 ```
 
-Con este comando instalamos las dependencias de un proyecto Angular
+Con este comando instalamos las dependencias de un proyecto ```Angular```
 ```
 npm install
 ```
 
-Con este comando compilamos y servir un proyecto Angular en un servidor de desarrollo local
+Con este comando podemos compilar y servir un proyecto ```Angular``` en un servidor de desarrollo local
 ```
 ng serve
 ```
 
-Con este comando compilamos y servir un proyecto Angular en un servidor de desarrollo local, y abrir automáticamente la aplicación en el navegador
+Con este comando podemos compilar y servir un proyecto ```Angular``` en un servidor de desarrollo local, y abrir automáticamente la aplicación en el navegador
 ```
 ng serve -o
 ```
 
-Con este comando compilamos el proyecto Angular y generaramos los archivos de salida listos para producción. El comando crea una archivo llamado dist el cual solo debemos copiarlo para subirlo a la nube en un servicio estatico
+Con este comando compilamos el proyecto ```Angular``` y generaramos los archivos de salida listos para producción. El comando crea una archivo llamado ```dist``` el cual solo debemos copiarlo para subirlo a la nube en un servicio estatico
 ```
 ng build
 ```
