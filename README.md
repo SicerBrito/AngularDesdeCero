@@ -90,6 +90,7 @@ Estos son los comandos que vamos a utilizar dentro de ```Angular```
     ng new NombreDelProyecto
     ```
 
+<<<<<<< HEAD
     ---
 
  - Con este comando instalamos las dependencias de un proyecto ```Angular```
@@ -119,6 +120,27 @@ Estos son los comandos que vamos a utilizar dentro de ```Angular```
     ```
 
     ---
+=======
+Con este comando instalamos las dependencias de un proyecto ```Angular```
+```
+npm install
+```
+
+Con este comando podemos compilar y servir un proyecto ```Angular``` en un servidor de desarrollo local
+```
+ng serve
+```
+
+Con este comando podemos compilar y servir un proyecto ```Angular``` en un servidor de desarrollo local, y abrir automáticamente la aplicación en el navegador
+```
+ng serve -o
+```
+
+Con este comando compilamos el proyecto ```Angular``` y generaramos los archivos de salida listos para producción. El comando crea una archivo llamado ```dist``` el cual solo debemos copiarlo para subirlo a la nube en un servicio estatico
+```
+ng build
+```
+>>>>>>> 0e5e7fdb6e420895904541fe23697542881c3a32
 
 <img src="lala.png" width="10px">
 <img src="chat_en_linea__1_-removebg-preview.png" width="10px">
