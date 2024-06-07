@@ -46,13 +46,13 @@ Ahora proseguiremos a instalar ```Angular``` desde la terminal
 
 ### Comandos de terminal
 
-Con este comando instalamos la ultima versión de ```Angular```
+Con este comando instalamos la última versión de ```Angular```
 ```
 npm install -g @angular/cli
 ```
 
 Con este comando verificaremos la versión de ```Angular``` y de paso tambien verificaremos la versión de ```Node.js``` con la cual estaremos trabajando
-Con este comando instalamos la ultima versión de ```Angular```
+Con este comando instalamos la última versión de ```Angular```
 ```
 ng version
 ```
@@ -65,7 +65,7 @@ A la hora de desarrollar con ```Angular``` es recomendado por el mismo Framework
 
 Además para facilitar el desarrollo podemos instalar ```Bootstrap 5```. Si ya lo conoces entonces debes de saber cuales son sus beneficios, si este no es tu caso entonces te recomiendo indagar mas sobre esta herramienta https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
-Con este comando instalamos la ultima versión de ```Bootstrap 5``` utilizando ```npm```
+Con este comando instalamos la última versión de ```Bootstrap 5``` utilizando ```npm```
 ```
 npm install bootstrap@5
 ```
@@ -77,7 +77,7 @@ npm install bootstrap@next
 
 Si no deseas utilizar ```Bootstrap``` puedes utilizar directamente la biblioteca oficial de componentes de ```Angular```, que ofrece una completa colección de interfaz de usuario y se mantiene actualizada con las últimas funciones y cambios de la ```API``` de ```Angular```.
 
-Con este comando instalamos la ultima versión de ```Angular Material```
+Con este comando instalamos la última versión de ```Angular Material```
 ```
 ng add @angular/material
 ```
