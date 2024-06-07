@@ -51,8 +51,7 @@ Con este comando instalamos la última versión de ```Angular```
 npm install -g @angular/cli
 ```
 
-Con este comando verificaremos la versión de ```Angular``` y de paso tambien verificaremos la versión de ```Node.js``` con la cual estaremos trabajando
-Con este comando instalamos la última versión de ```Angular```
+Con este comando verificaremos la versión de ```Angular``` y de paso también verificaremos la versión de ```Node.js``` con la cual estaremos trabajando
 ```
 ng version
 ```
