@@ -3,7 +3,7 @@ Practica para desarrollar aplicaciones web con Angular 17
 
 
 ## Instalación de ```Node.js```
-Necesitaremos para iniciar en la creación de un proyecto es instalar la versión de ```Node.js LTS (Long-term support)``` osea la versión mas actualizada a la cual le brindan un support constante o por recomendación una versión de la 18 en adelante
+Necesitaremos para iniciar en la creación de un proyecto es instalar la versión de ```Node.js LTS (Long-term support)``` osea la versión mas actualizada a la cual le brindan un support constante o por recomendación una versión de la 18 en adelante https://nodejs.org/en/download/package-manager
 
 ### Comandos de terminal
 
