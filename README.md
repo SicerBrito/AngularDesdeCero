@@ -123,3 +123,4 @@ Estos son los comandos que vamos a utilizar dentro de ```Angular```
 <img src="chat_en_linea__1_-removebg-preview.png" width="10px">
 <img src="prometeo.jpg" width="10px">
 <img src="publicar.jpg" width="10px">
+<img src="logo ahdo-color.png" width="10px">
